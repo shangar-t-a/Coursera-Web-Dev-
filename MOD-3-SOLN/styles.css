@@ -1,0 +1,36 @@
+.box{
+	border-radius: 25px;
+	background-color: #fea69d;
+	border: 2px solid black;
+	margin: 05px;
+	padding: 10px;
+}
+
+.top{
+	background-color: #fbfbc9;
+	border: 2px solid black;
+	padding: 2px;
+	position: relative;
+	float: right;
+}
+
+.bg{
+	border-radius: 25px;
+	background-color: #bebcbc;
+	padding: 5px;
+}
+
+.foot{
+	margin-top: 10px;
+}
+
+.recip{
+	border-radius: 25px;
+	background-color: #ffffff;
+	border: 2px solid black;
+	padding-left: 50px;
+	padding-bottom: 10px;
+	width: 30%;
+	position: relative;
+	float: left;
+}
